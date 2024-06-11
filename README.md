@@ -4,7 +4,6 @@
 I am a cybersecurity graduate with a profound interest in technology and a dedication to helping people!
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in cybersecurity has led me to develop a passion for technology, and I am now eager to transition into this field.
 
