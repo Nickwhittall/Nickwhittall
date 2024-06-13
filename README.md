@@ -13,8 +13,8 @@ My journey in cybersecurity has led me to develop a passion for technology, and 
 |-----------------------------------------------|----------------------------|
 | Network Design & Architecture                 | <a href="https://google.com">Eneterprise Network</a>|
 | Configuration and Troubleshooting             | <a href="https://google.com">Enterprise Network</a>|
-| Secure Protocols                              | Enterprise Network |
-| Wireless Network Management                   | Enterprise Network |
+| Secure Protocols                              | <a href="https://google.com">Enterprise Network</a>|
+| Wireless Network Management                   | <a href="https://google.com">Enterprise Network</a>|
 
 ## Certifications
 <div>
@@ -22,5 +22,5 @@ My journey in cybersecurity has led me to develop a passion for technology, and 
 </div>
 
 ## Projects
-- Building an Enterprise Network (Finished)
-- Building a SIEM (Under Construction)
+- Building an Enterprise Network (Under Construction)
+- Building a SIEM (Next Project)
