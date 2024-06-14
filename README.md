@@ -11,10 +11,10 @@ My journey in cybersecurity has led me to develop a passion for technology, and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Design & Architecture                 | <a href="https://google.com">Eneterprise Network</a>|
-| Configuration and Troubleshooting             | <a href="https://google.com">Enterprise Network</a>|
-| Secure Protocols                              | <a href="https://google.com">Enterprise Network</a>|
-| Wireless Network Management                   | <a href="https://google.com">Enterprise Network</a>|
+| Network Design & Architecture                 | <a href="https://github.com/Nickwhittall/Enterprise-Network/tree/main">Eneterprise Network</a>|
+| Configuration and Troubleshooting             | <a href="https://github.com/Nickwhittall/Enterprise-Network/tree/main">Enterprise Network</a>|
+| Secure Protocols                              | <a href="https://github.com/Nickwhittall/Enterprise-Network/tree/main">Enterprise Network</a>|
+| Wireless Network Management                   | <a href="https://github.com/Nickwhittall/Enterprise-Network/tree/main">Enterprise Network</a>|
 
 ## Certifications
 <div>
