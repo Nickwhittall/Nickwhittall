@@ -5,7 +5,7 @@ I am a cybersecurity graduate with a profound interest in technology and a dedic
 
 ## Objective
 
-My journey in cybersecurity has led me to develop a passion for technology, and I am now eager to transition into this field.
+My journey in cybersecurity has led me to develop a passion for technology.
 
 ## Skills
 
