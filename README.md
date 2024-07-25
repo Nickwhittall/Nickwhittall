@@ -15,12 +15,11 @@ My journey in cybersecurity has led me to develop a passion for technology.
 | Configuration and Troubleshooting             | <a href="https://github.com/Nickwhittall/Enterprise-Network/tree/main">Enterprise Network</a>|
 | Secure Protocols                              | <a href="https://github.com/Nickwhittall/Enterprise-Network/tree/main">Enterprise Network</a>|
 | Wireless Network Management                   | <a href="https://github.com/Nickwhittall/Enterprise-Network/tree/main">Enterprise Network</a>|
-| Log Management                                | <a href="">Hands on SIEM Lab</a>|
-| Alert/Rule Creation                           | <a href="">Hands on SIEM Lab</a>|
-| Identify Anomalies                            | <a href="">Hands on SIEM Lab</a>|
-| Remediate Threats                             | <a href="">Hands on SIEM Lab</a>|
-| Case Management                               | <a href="">Hands on SIEM Lab</a>|
-| Auditing & Reporting                          | <a href="">Hands on SIEM Lab</a>|
+| Security Orchestration, Automation, & Response (SOAR) | <a href="">SOC Automation Lab</a>|
+| SIEM (Splunk)                                 | <a href="">SOC Automation Lab</a>|
+| Network Security Automation                   | <a href="">SOC Automation Lab</a>|
+| Vulnerability Management                      | <a href="">SOC Automation Lab</a>|
+| Endpoint Detection & Response                 | <a href="">SOC Automation Lab</a>|
 
 ## Certifications
 <div>
@@ -29,4 +28,4 @@ My journey in cybersecurity has led me to develop a passion for technology.
 
 ## Projects
 - Building an Enterprise Network (Under Construction)
-- Hands on SIEM Lab (Under Construction)
+- SOC Automation (Under Construction)
