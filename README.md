@@ -27,5 +27,5 @@ My journey in cybersecurity has led me to develop a passion for technology.
 </div>
 
 ## Projects
-- Building an Enterprise Network (Under Construction)
+- Building an Enterprise Network
 - SOC Automation (Under Construction)
